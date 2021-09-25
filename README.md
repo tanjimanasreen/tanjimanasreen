@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Tanjima Nasreen Jenia. Currently, I am working as a Research Associate at Socio Cognitive Lab, Dhaka, Bangladesh. My research fields are social media mining, opinion mining, cognitive & social behavior analysis, and natural language processing.
+I am Tanjima Nasreen Jenia. I am currently working as a Research Associate at [Socio Cognitive Lab](https://sociocognitive.com), Dhaka, Bangladesh. 
+My research fields are social media mining, opinion mining, cognitive & social behavior analysis, and natural language processing. To know more about me, [visit here](https://tanjimanasreen.github.io/)
 
 <!--
 **tanjimanasreen/tanjimanasreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
