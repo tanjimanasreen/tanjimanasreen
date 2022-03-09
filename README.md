@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Tanjima Nasreen Jenia. I am currently working as a Research Associate at [Socio Cognitive Lab](https://sociocognitive.com), Dhaka, Bangladesh. 
+I am Tanjima Nasreen Jenia. I am currently working as a Data Engineer at [Leadbook](https://www.leadbook.com), Dhaka, Bangladesh. 
 My research fields are social media mining, opinion mining, cognitive & social behavior analysis, and natural language processing. To know more about me, [visit here](https://tanjimanasreen.github.io/)
 
 <!--
