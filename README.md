@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Tanjima Nasreen Jenia. I am a MSc. student at the [University of Alberta](https://www.ualberta.ca/index.html). I previously worked as a Data Engineer at [Leadbook][(https://www.leadbook.com](https://www.linkedin.com/company/leadbook/). 
+I am Tanjima Nasreen Jenia. I am a MSc. student at the [University of Alberta](https://www.ualberta.ca/index.html). I previously worked as a Data Engineer at [Leadbook][(https://www.leadbook.com](https://www.linkedin.com/company/leadbook/)). 
 My research fields are social media mining, opinion mining, cognitive & social behavior analysis, and natural language processing. To know more about me, checkout my [website](https://tanjimanasreen.github.io/) or connect with me in [linkedin](https://www.linkedin.com/in/tanjimanasreen)
 
 <!--
